@@ -1,12 +1,12 @@
 {
-  "name": "vue-pdf",
-  "version": "4.2.0",
+  "name": "vue-pdf-signature",
+  "version": "1.0.0",
   "description": "vue.js pdf viewer",
   "main": "src/vuePdfNoSss.vue",
   "scripts": {},
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/FranckFreiburger/vue-pdf.git"
+    "url": "git+https://github.com/507228905/vue-pdf.git"
   },
   "keywords": [
     "vue.js",
@@ -24,7 +24,6 @@
     "loader-utils": "^1.4.0",
     "raw-loader": "^4.0.1",
     "worker-loader": "^2.0.0",
-    "pdfjs-dist": "^2.5.207 <2.8.0",
     "vue-resize-sensor": "^2.0.0"
   },
   "peerDependencies": {}
